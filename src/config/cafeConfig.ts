@@ -58,7 +58,7 @@ export type CafeConfig = {
  * images, colors, and five review messages before deploying for a real café.
  */
 export const cafeConfig: CafeConfig = {
-  cafeName: 'BrewBite Café',
+  cafeName: 'The Good Stuff Café',
   logoImage: '',
   bannerImage: '',
   tagline: 'Good food. Great moments.',
@@ -69,13 +69,13 @@ export const cafeConfig: CafeConfig = {
   textColor: '#30221d',
   // Example values only. Replace them with the café owner’s real URLs.
   instagramUrl: 'https://www.instagram.com/yourcafe/',
-  whatsappUrl: 'https://wa.me/91XXXXXXXXXX',
+  whatsappUrl: 'https://wa.me/919978653521',
   facebookUrl: '',
   cafeWebsiteUrl: '',
-  googleReviewUrl: 'YOUR_CAFE_GOOGLE_REVIEW_URL',
-  address: 'Add the café address here',
-  contactInfo: 'Add a phone number or contact detail here',
-  hours: 'Add opening hours here',
+  googleReviewUrl: 'https://www.google.com/maps/place/The+Good+Stuff+%7C+Citylight/@21.1724433,72.7938842,17z/data=!4m8!3m7!1s0x3be053d68e4c0227:0x1d6b6a1d73095ec4!8m2!3d21.1724433!4d72.7938842!9m1!1b1!16s%2Fg%2F11kq5swskm!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D',
+  address: 'G-1, SNS Saigon, City Light Rd, near Jani Farsan, Shringar Society, Athwa, Surat, Gujarat 395007',
+  contactInfo: '+919978653521',
+  hours: '10:00 AM - 8:00 PM',
   reviewHeading: 'How was your experience?',
   reviewSubheading: 'Choose a genuine note that feels like you, or write your own.',
   heroKicker: 'A friendly place for everyday rituals',
